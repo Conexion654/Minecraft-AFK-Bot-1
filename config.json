@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "finaluhc.minefort.com",
+  "serverPort": 25565,
+  "botUsername": "HeIsntBot",
   "botChunk": 1
 }
